@@ -1,0 +1,3 @@
+class ErrConst extends Exception {
+
+}
